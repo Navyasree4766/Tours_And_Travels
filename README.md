@@ -16,22 +16,22 @@ The homepage of the website is `index.html`.
 ## 🏞️ **Screenshots**
 
 ### 🏠 Home Page  
-![Home](https://github.com/Navyasree4766/Tours_And_Travels/blob/main/screenshot/home.PNG?raw=true)
+![Home](https://github.com/Navyasree4766/Tours_And_Travels/blob/add-github-workflows/screenshot/home.PNG?raw=true)
 
 ### 🧗 Adventure Section  
-![Adventure](https://github.com/Navyasree4766/Tours_And_Travels/blob/main/screenshot/adventure.PNG?raw=true)
+![Adventure](https://github.com/Navyasree4766/Tours_And_Travels/blob/add-github-workflows/screenshot/adventure.PNG?raw=true)
 
 ### 📦 Packages Section  
-![Package1](https://github.com/Navyasree4766/Tours_And_Travels/blob/main/screenshot/package1.PNG?raw=true)
+![Package1](https://github.com/Navyasree4766/Tours_And_Travels/blob/add-github-workflows/screenshot/package1.PNG?raw=true)
 
 ### 📬 Contact Page  
-![Contact](https://github.com/Navyasree4766/Tours_And_Travels/blob/main/screenshot/contact.PNG?raw=true)
+![Contact](https://github.com/Navyasree4766/Tours_And_Travels/blob/add-github-workflows/screenshot/contact.PNG?raw=true)
 
 ### 🗄️ Database Storage (Contact Data)  
-![Database](https://github.com/Navyasree4766/Tours_And_Travels/blob/main/screenshot/database_contact.PNG?raw=true)
+![Database](https://github.com/Navyasree4766/Tours_And_Travels/blob/add-github-workflows/screenshot/database_contact.PNG?raw=true)
 
 ### 🦶 Footer  
-![Footer](https://github.com/Navyasree4766/Tours_And_Travels/blob/main/screenshot/Tours_front.png?raw=true)
+![Footer](https://github.com/Navyasree4766/Tours_And_Travels/blob/add-github-workflows/screenshot/Tours_front.png?raw=true)
 
 ---
 
