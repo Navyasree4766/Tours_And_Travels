@@ -4,9 +4,6 @@ A responsive Tours & Travels website built using **HTML, CSS, JavaScript, and PH
 <b>Calling All Open Source Contributors: Join Us in Improving This Project! Try Making Some Changes!</b>  
 <br>
 
-DEMO → *(Upload GitHub Pages link after deployment)*  
-Example Format: https://navyasree4766.github.io/Tours_And_Travels/
-
 This project features a complete travel website with interactive sections such as adventures, packages, and a working PHP-based contact form.
 
 The homepage of the website is `index.html`.
