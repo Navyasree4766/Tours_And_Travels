@@ -1,19 +1,64 @@
-# Tour-Project
-<b>Calling All Open Source Contributors: Join Us in Shaping the Future of this Repository! Try Making Some Changes!</b> <br>
-[Enhancement: Add A Section For Contributors on The Home Page ](https://github.com/Yash-srivastav16/Tour-Project/issues/10) <br>
-[Enhancement: Separate Pages For Popular Packages ](https://github.com/Yash-srivastav16/Tour-Project/issues/9) <br><br>
-DEMO-> https://yash-srivastav16.github.io/Tour-Project/
-Tour &amp; Travel Project (Using Html, Css, Php, Javascript).
+# Tours & Travels Website  
+A responsive Tours & Travels website built using **HTML, CSS, JavaScript, and PHP**.
 
-Here I used <b>Html, Css & javascript</b> To create the front end part of the website and for storing the Contact Information in the Database we used <b>php</b> as a backend language.
+<b>Calling All Open Source Contributors: Join Us in Improving This Project! Try Making Some Changes!</b>  
+<br>
 
-The HomePage of the Website is with<b> main.html</b> file.
+DEMO → *(Upload GitHub Pages link after deployment)*  
+Example Format: https://navyasree4766.github.io/Tours_And_Travels/
 
-![alt text](https://github.com/Yash-srivastav16/Tour-Project/blob/main/screenshot/home.PNG?raw=true)
+This project features a complete travel website with interactive sections such as adventures, packages, and a working PHP-based contact form.
 
-<h1><b>Other Screenshots of the Pages are.</b></h1>
+The homepage of the website is `index.html`.
 
-![alt text](https://github.com/Yash-srivastav16/Tour-Project/blob/main/screenshot/adventure.PNG?raw=true)
-![alt text](https://github.com/Yash-srivastav16/Tour-Project/blob/main/screenshot/package1.PNG?raw=true)
-![alt text](https://github.com/Yash-srivastav16/Tour-Project/blob/main/screenshot/contact.PNG?raw=true)
-![alt text](https://github.com/Yash-srivastav16/Tour-Project/blob/main/screenshot/database_contact.PNG?raw=true)
+---
+
+## 🏞️ **Screenshots**
+
+### 🏠 Home Page  
+![Home](https://github.com/Navyasree4766/Tours_And_Travels/blob/main/home.PNG?raw=true)
+
+### 🧗 Adventure Section  
+![Adventure](https://github.com/Navyasree4766/Tours_And_Travels/blob/main/adventure.PNG?raw=true)
+
+### 📦 Packages Section  
+![Package1](https://github.com/Navyasree4766/Tours_And_Travels/blob/main/package1.PNG?raw=true)
+
+### 📬 Contact Page  
+![Contact](https://github.com/Navyasree4766/Tours_And_Travels/blob/main/contact.PNG?raw=true)
+
+### 🗄️ Database Storage (Contact Data)  
+![Database](https://github.com/Navyasree4766/Tours_And_Travels/blob/main/database_contact.PNG?raw=true)
+
+### 🦶 Footer  
+![Footer](https://github.com/Navyasree4766/Tours_And_Travels/blob/main/footer.PNG?raw=true)
+
+---
+
+## 🛠️ Tech Stack  
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** PHP  
+- **Database:** MySQL (used to store contact form submissions)
+
+---
+
+## ✨ Features  
+- Fully responsive modern travel website  
+- Interactive UI sections (Adventures, Packages, Contact)  
+- Working contact form using PHP backend  
+- Organized and reusable components  
+- Attractive design with animations and smooth navigation  
+
+---
+
+## 📩 Contact  
+For any collaboration or queries, feel free to reach out!  
+
+**Navyasree Battina**  
+📍 Bengaluru, Karnataka  
+📧 navyasree8446@gmail.com  
+📱 7993884766  
+🔗 GitHub: https://github.com/Navyasree4766  
+🔗 LinkedIn: https://www.linkedin.com/in/navyasreebattina  
+📸 Instagram: https://www.instagram.com/navyasree_battina/  
+📘 Facebook: https://www.facebook.com/profile.php?id=61584292761078
